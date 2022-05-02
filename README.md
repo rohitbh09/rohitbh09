@@ -7,9 +7,6 @@
 <a href="https://www.instagram.com/rohit.bhobu//">
   <img align="left" alt="Rohit's Instagram" width="22px" style='margin-right: 8px;' src="assets/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Rohit's Discord" width="22px" style='margin-right: 8px;' src="assets/discord.svg" />
-</a>
 <a href="https://twitter.com/rohit.bhobu@gmail.com">
   <img align="left" alt="Rohit Bhobu | Twitter" width="22px" style='margin-right: 8px;' src="assets/twitter.svg" />
 </a>
